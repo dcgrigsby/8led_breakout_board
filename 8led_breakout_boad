@@ -1,0 +1,18 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    </head>
+    <body>
+    <h1>C:\Users\dan\projects\8led_breakout_boad\8led_breakout_boad.sch</h1>
+    <p>2/1/2020 9:27:39 PM</p>
+    <p>Eeschema (5.1.5)-3</p>
+    <p><b>Component Count:</b>17</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Datasheet</th><th>Description</th><th>Vendor</th></tr><tr><td>D1, D2, D3, D4, D5, D6, D7, D8</td><td>8</td><td>LED</td><td>Device:LED</td><td>~</td><td>Light emitting diode</td><td></td></tr><tr><td>J1</td><td>1</td><td>Conn_01x09</td><td>Connector_Generic:Conn_01x09</td><td>~</td><td>Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>R1, R2, R3, R4, R5, R6, R7, R8</td><td>8</td><td>120</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    
